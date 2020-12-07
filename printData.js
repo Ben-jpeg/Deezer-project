@@ -21,3 +21,5 @@ const displayImg = () => {
 
 // et j'affiche les images
 displayImg();
+
+// -------------------------------- FIN EXO 2
