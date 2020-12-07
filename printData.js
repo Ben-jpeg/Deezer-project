@@ -30,9 +30,3 @@ const tmr = () => {
     // et là j'appelle ma fonction
 tmr();
 //---------------------------------------FIN EXO 1
-
-
-// EXO 2=> 
-//faire une branch 'get-img'
-// Lister les images de chaque album au format medium
-// Afficher les images et les titres correspondant dans votre page HTML.
